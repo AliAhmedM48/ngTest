@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "app1": "ng serve -o --project=app1"
+    "app1": "ng serve -o --hmr --project=app1"
   },
   "private": true,
   "dependencies": {
