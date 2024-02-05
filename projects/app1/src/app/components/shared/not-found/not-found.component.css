@@ -1,0 +1,4 @@
+.notfound {
+    min-height: 100dvh;
+    background-color: var(--primary-dark-color);
+}

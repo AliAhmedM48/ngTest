@@ -1,0 +1,33 @@
+.footer {
+    background-color: var(--primary-color) !important;
+    padding: 40px;
+    margin: 0;
+    color: var(--white-color);
+    text-align: center;
+
+    .icons i {
+        border: 1px solid white;
+        border-radius: 100%;
+        padding: 10px;
+    }
+
+    .col-md-4 {
+        padding: 16px !important;
+    }
+}
+
+.below-footer {
+    background-color: var(--primary-dark-color) !important;
+    padding: 10px;
+}
+
+.below-footer p {
+    color: var(--white-color);
+    padding-top: 10px;
+    text-align: center;
+}
+
+i {
+    cursor: pointer;
+    margin-top: 10px;
+}

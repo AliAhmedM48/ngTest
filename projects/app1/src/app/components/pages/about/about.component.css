@@ -1,0 +1,5 @@
+.about {
+    background-color: var(--secondary-color) !important;
+    margin-top: 86px px;
+    min-height: calc(-106px + 100vh);
+}

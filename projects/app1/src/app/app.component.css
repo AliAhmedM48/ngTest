@@ -1,0 +1,5 @@
+.wrapper {
+    background-color: var(--secondary-color) !important;
+    padding-top: 86px;
+    min-height: calc(-106px + 100vh);
+}
